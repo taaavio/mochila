@@ -1,0 +1,16 @@
+COMANDOS DO git
+ - git merge                                -> funde as branchs
+ - git commit                               -> adiciona um commit
+ - git status                               -> verifica o status
+ - git commit -m "comentario do commit"     -> faz um commit
+ - git init                                 -> inicia um repositorio
+ - git add .                                -> adiciona todos os arquivos do repositorio
+ - git checkout -b "nomeDaBranch"           -> troca de branch e cria, caso nao exista 
+ - git remote add origin                       -> trata de repositorios em nuvem
+
+
+
+
+
+
+
