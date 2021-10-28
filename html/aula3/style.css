@@ -1,0 +1,75 @@
+*{
+    font-family: sans-serif;;
+}
+form {
+    width: 500px;
+    border: solid rgb(3, 10, 51) 2px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+}
+form h1 {
+    font-size: 20px;
+    color: darkmagenta;
+    text-align: center;
+}
+
+form .campo {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+    width: 100%;
+
+}
+
+form input{
+    padding: 8px;
+    border-radius: 12px;
+    outline: none;
+    border: rgb(138, 118, 81) 1px solid;
+    font-size: 15px;
+}
+
+form label{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+form input[type=submit]{
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+}
+form input:focus
+
+form .inline{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+form select {
+    border-radius: 25px;
+    
+}
+form select:hover{
+    background-color: rgb(250, 239, 250);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

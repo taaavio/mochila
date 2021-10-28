@@ -1,0 +1,15 @@
+COMANDOS DO git
+ - git merge                                -> funde as branchs
+ - git commit                               -> adiciona um commit
+ - git status                               -> verifica o status
+ - git commit -m "comentario do commit"     -> faz um commit
+ - git init                                 -> inicia um repositorio
+ - git add .                                -> adiciona todos os arquivos do repositorio
+ - git checkout -b "nomeDaBranch"           -> troca de branch e cria, caso nao exista 
+ - git remote add origin                       -> trata de repositorios em nuvem
+
+
+
+token de autorizaçao:  vscode://vscode.github-authentication/did-authenticate?windowid=1&code=58d3a5808b4cfcc81245&state=d4df7a6e-c1c5-4a4e-bf3f-70a80843ef1c
+
+PROCESSOS DO DO DIA A DIA

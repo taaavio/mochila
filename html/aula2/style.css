@@ -1,0 +1,103 @@
+*{font-family: 'Poppins', sans-serif;
+margin: 0;
+padding: 0;
+}
+nav{
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+}
+
+
+nav h2{color: white;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+nav ul{color: honeydew;
+    list-style:none;
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.primeira-secao {
+    background: url('https://media2.giphy.com/media/QhUYemPoLeymI3o0LM/giphy.gif?cid=ecf05e47vqo0om1g3erc8ihkc6qhvav3szfhvmweuoq60th2&rid=giphy.gif&ct=ghttps://i.pinimg.com/originals/59/69/84/59698460a33a71e42ddf46e185e17737.gif');
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: honeydew;
+    margin: 0;
+
+}
+
+.primeira-secao h1{
+    font-size: 60px;
+}
+
+.primeira-secao p{
+    font-size: 35px;
+}
+
+.button{
+    color: black;
+    text-decoration: none;
+    background-color: mediumpurple;
+    padding: 15px 70px;
+    border-radius: 30px;
+    font-size: 20px; 
+    border: none;
+    width: 100%;
+    max-width: 300px;   
+    text-align: center;
+    cursor: pointer;
+}
+
+.segunda-secao {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 50px;
+    color: white;
+
+}
+
+.segunda-secao div {
+    border: 5px purple solid;
+    border-radius: 10px;
+    padding: 15px;
+    width: 300px;
+}
+.segunda-secao div h5{
+    font-size: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
