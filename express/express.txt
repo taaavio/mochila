@@ -1,0 +1,6 @@
+C.R.U.D.
+
+Create - Criar
+Read   - Ler
+Update - Atualizar
+Delete - Deletar
